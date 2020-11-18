@@ -15,11 +15,9 @@ header {
     align-items: center;
     justify-content: space-between;
     height: 45px;
-    margin-top: 8px;
+    margin-top: 7px;
 }
 header a {
-    display: inline-block;
-
     font-size: 13px;
     color: #000000;
 
@@ -29,16 +27,31 @@ header a:hover {
     text-decoration: underline;
 }
 .header-left {
-    margin-left: 15px;
+    margin-left: 14px;
 }
 .header-left a {
-    margin-left: 10px;
+    margin-left: 11px;
 }
 .header-right {
+    display: flex;
+    align-items: center;
     margin-right: 15px;
 }
 .header-right a {
     margin-right: 15px;
+}
+.icon-apps {
+    width: 16px;
+    margin-top: 3px;
+    margin-right: 6px;
+    margin-left: 7px;
+    
+    opacity: 0.5;
+}
+.icon-apps:hover,
+.icon-apps:focus{
+    opacity: 1;
+    outline: none;
 }
 .btn-signIn {
     padding: 6.5px 12px;
@@ -62,13 +75,13 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 145px;
+    margin-top: 146px;
 }
 .search-bar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 480px;
+    width: 481px;
     height: 44px;
     margin-top: 27px;
     margin-bottom: 25px;
