@@ -48,7 +48,7 @@ header a:hover {
     opacity: 0.5;
 }
 .icon-apps:hover,
-.icon-apps:focus{
+.icon-apps:focus {
     opacity: 1;
     outline: none;
 }
