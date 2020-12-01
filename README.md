@@ -2,7 +2,7 @@ An attempt at recreating the Google homepage. This is my first project using HTM
 
 Live preview: https://yakurutu.github.io/google-homepage/
 
-What I've learned:
+What I learned:
 - how to organize files for a simple webpage (root, css, images folders)
 - basic html structure and elements needed for a page to run
 - adding page titles and favicons
