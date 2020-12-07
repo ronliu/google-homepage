@@ -1,6 +1,6 @@
 An attempt at recreating the Google homepage. This is my first project using HTML and CSS!
 
-Live preview: https://yakurutu.github.io/google-homepage/
+Live preview: https://ronliu.github.io/google-homepage/
 
 What I learned:
 - how to organize files for a simple webpage (root, css, images folders)
